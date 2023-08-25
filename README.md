@@ -1,2 +1,2 @@
 # Linear-Algebra-I
-Linear Algebra using python clas
+Linear Algebra using python class
